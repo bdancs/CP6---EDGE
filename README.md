@@ -27,4 +27,4 @@
 ![Foto da demonstração do funcionamento sem o ESP32, no tinkercad](exemplo.png)
 
 ## Vídeo, com o ESP32
-https://www.youtube.com/watch?v=64VOE39yQIc
+[YOUTUBE](https://www.youtube.com/watch?v=64VOE39yQIc)
