@@ -18,6 +18,9 @@
 - MQTT
 - STH-Comet
 
+## Como funciona?
+<div align="justify">O DHT11 e o LDR recebem as informações e através do ESP32 mandam para os softwares, que armazem e mostram os dados em gráfico.</div>
+
 ## Demonstração
 
 # Imagem, sem o ESP32
